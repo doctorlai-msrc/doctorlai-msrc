@@ -12,3 +12,7 @@ My personal github id is [@doctorlai](https://github.com/doctorlai). I contribut
 
 ## Teaching Kids Programming
 I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) from when they were young. The latest episode ([Day 707](https://youtu.be/2zaKqIxqWwg&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=707)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 20+ episodes in my backlog.
+
+# #Keep learning
+- My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
+- [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
