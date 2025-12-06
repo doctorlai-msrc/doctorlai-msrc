@@ -15,4 +15,5 @@ I have been teaching my two sons programming (Python, Math, Data Structures/Algo
 
 ## Keep learning
 - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
+- My Credly Profile [zhihua-lai](https://www.credly.com/users/zhihua-lai)
 - [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
