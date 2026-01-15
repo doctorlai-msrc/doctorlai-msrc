@@ -4,11 +4,13 @@ Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridg
 
 My personal github id is [@doctorlai](https://github.com/doctorlai). I contribute to open source projects such as:
 
-- [microsoft/jbpf](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jbpf/graphs/contributors)
-- [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jrt-controller/graphs/contributors) 
-- [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jbpf-protobuf/graphs/contributors)
-- [microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jrtc-apps/graphs/contributors)
-- [microsoft/exekias](https://github.com/microsoft/exekias/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/exekias/graphs/contributors)
+| Repository | Merged Pull Requests | Issues | Contribution Graph |
+|-----------|----------------------|--------|--------------------|
+| [microsoft/jbpf](https://github.com/microsoft/jbpf) | [PRs](https://github.com/microsoft/jbpf/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/jbpf/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/jbpf/graphs/contributors) |
+| [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) | [PRs](https://github.com/microsoft/jrt-controller/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/jrt-controller/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/jrt-controller/graphs/contributors) |
+| [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf) | [PRs](https://github.com/microsoft/jbpf-protobuf/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/jbpf-protobuf/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/jbpf-protobuf/graphs/contributors) |
+| [microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps) | [PRs](https://github.com/microsoft/jrtc-apps/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/jrtc-apps/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/jrtc-apps/graphs/contributors) |
+| [microsoft/exekias](https://github.com/microsoft/exekias) | [PRs](https://github.com/microsoft/exekias/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/exekias/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/exekias/graphs/contributors) |
 
 ## Teaching Kids Programming
 I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) since when they were young. The latest episode ([Day 707](https://youtu.be/2zaKqIxqWwg&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=707)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 20+ episodes in my backlog.
