@@ -21,6 +21,9 @@ I have been teaching my two sons programming (Python, Math, Data Structures/Algo
 - [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
 - [C++ Coding Exercises](https://github.com/DoctorLai/cpp-coding-exercise)
 
+My GPTs:
+- [ExamGPT](https://chatgpt.com/g/g-698ba89e5a1c8191a12605d515f7faeb-exam-gpt)
+
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
