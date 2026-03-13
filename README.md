@@ -27,6 +27,8 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AZ-104 | Cloud      | Azure Administrator Associate                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | March 13, 2026 |
+| AB-731 | AI, Business       | AI Transformation Leader                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | March 13, 2026 |
 | AZ-204 | Cloud       | Azure Developer Associate                            | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | February 27, 2026 |
 | AB-730 | AI, Business       | AI Business Professional                            | [BA3490-GD0796](https://learn.microsoft.com/en-us/users/zhihualai/credentials/db719c96a757c69b) | February 27, 2026 |
 | AI-102 | AI       | Azure AI Engineer Associate                              | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | February 20, 2026 |
