@@ -27,6 +27,7 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| GH-200 | Git      | Github Action                          | [11F89A-3CC7A3](https://learn.microsoft.com/en-us/users/zhihualai/credentials/10d70f27fd78d5b6) | April 6, 2026 |
 | GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | March 30, 2026 |
 | AZ-305 | Cloud      | Azure Solutions Architect Expert                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | March 27, 2026 |
 | AZ-104 | Cloud      | Azure Administrator Associate                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | March 13, 2026 |
