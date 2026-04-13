@@ -13,7 +13,7 @@ My personal github id is [@doctorlai](https://github.com/doctorlai). I contribut
 | [microsoft/exekias](https://github.com/microsoft/exekias) | [PRs](https://github.com/microsoft/exekias/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/exekias/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/exekias/graphs/contributors) |
 
 ## Teaching Kids Programming
-I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) since when they were young. The latest episode ([Day 707](https://youtu.be/2zaKqIxqWwg&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=707)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 30+ episodes in my backlog.
+I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) since when they were young. The latest episode ([Day 708](https://www.youtube.com/watch?v=5E47eeSLoMs&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=708)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 35+ episodes in my backlog. I plan to work through them gradually over the next few years, without a fixed schedule.
 
 ## Keep learning!
 - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
