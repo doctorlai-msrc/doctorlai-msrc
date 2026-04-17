@@ -27,6 +27,8 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AZ-400 | DevOps      | Azure DevOps Engineer Expert                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
+| GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | April 17, 2026 |
 | AZ-700 | Network      | Azure Network Engineer Associate                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
 | GH-200 | Git      | Github Action                          | [11F89A-3CC7A3](https://learn.microsoft.com/en-us/users/zhihualai/credentials/10d70f27fd78d5b6) | April 6, 2026 |
 | GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | March 30, 2026 |
