@@ -13,7 +13,7 @@ My personal github id is [@doctorlai](https://github.com/doctorlai). I contribut
 | [microsoft/exekias](https://github.com/microsoft/exekias) | [PRs](https://github.com/microsoft/exekias/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/exekias/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Graph](https://github.com/microsoft/exekias/graphs/contributors) |
 
 ## Teaching Kids Programming
-I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) since when they were young. The latest episode ([Day 708](https://www.youtube.com/watch?v=5E47eeSLoMs&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=708)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 35+ episodes in my backlog. I plan to work through them gradually over the next few years, without a fixed schedule.
+I have been teaching my two sons programming (Python, Math, Data Structures/Algorithms) since when they were young. The latest episode ([Day 708](https://www.youtube.com/watch?v=5E47eeSLoMs&list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A&index=708)) have been uploaded to Youtube. Here are [the list of videos](https://zhihua-lai.com/teaching/) that have been uploaded so far. I still have about 40+ episodes in my backlog. I plan to work through them gradually over the next few years, without a fixed schedule.
 
 ## Keep learning!
 - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
@@ -27,17 +27,17 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
-| AZ-400 | DevOps      | Azure DevOps Engineer Expert                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
+| AZ-400 | DevOps      | **Azure DevOps Engineer Expert**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | April 17, 2026 |
-| AZ-700 | Network      | Azure Network Engineer Associate                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
+| AZ-700 | Network      | **Azure Network Engineer Associate**                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
 | GH-200 | Git      | Github Action                          | [11F89A-3CC7A3](https://learn.microsoft.com/en-us/users/zhihualai/credentials/10d70f27fd78d5b6) | April 6, 2026 |
 | GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | March 30, 2026 |
-| AZ-305 | Cloud      | Azure Solutions Architect Expert                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | March 27, 2026 |
-| AZ-104 | Cloud      | Azure Administrator Associate                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | March 13, 2026 |
+| AZ-305 | Cloud      | **Azure Solutions Architect Expert**                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | March 27, 2026 |
+| AZ-104 | Cloud      | **Azure Administrator Associate**                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | March 13, 2026 |
 | AB-731 | AI, Business       | AI Transformation Leader                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | March 13, 2026 |
-| AZ-204 | Cloud       | Azure Developer Associate                            | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | February 27, 2026 |
+| AZ-204 | Cloud       | **Azure Developer Associate**                            | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | February 27, 2026 |
 | AB-730 | AI, Business       | AI Business Professional                            | [BA3490-GD0796](https://learn.microsoft.com/en-us/users/zhihualai/credentials/db719c96a757c69b) | February 27, 2026 |
-| AI-102 | AI       | Azure AI Engineer Associate                              | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | February 20, 2026 |
+| AI-102 | AI       | **Azure AI Engineer Associate**                              | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | February 20, 2026 |
 | AZ-900 | Cloud    | Azure Fundamentals                                       | [B6FAD6-2S7125](https://learn.microsoft.com/en-us/users/zhihualai/credentials/f4fee9b0f71d4223) | January 16, 2026 |
 | SC-900 | Security | Security, Compliance, and Identity Fundamentals          | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
 | AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
