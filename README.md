@@ -27,11 +27,11 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
-| SC-300 | Security      | **Azure Identity and Access Administrator Associate**                          | Pass/Pending | May 8, 2026 |
+| SC-100 | Security      | **Cybersecurity Architect Expert**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | May 8, 2026 |
+| SC-300 | Security      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | May 8, 2026 |
 | GH-500 | Git      | **Github Advanced Security**                          | Pending | May 8, 2026 |
 | AI-901 | AI      | Azure AI Fundamentals (Beta)                        | Pending | May 1, 2026 |
 | GH-100 | Git      | **Github Administration**                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | April 29, 2026 |
-| SC-100 | Security      | **Microsoft Cybersecurity Architect**                          | Pass/Pending | April 24, 2026 |
 | AZ-400 | DevOps      | **Azure DevOps Engineer Expert**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | April 17, 2026 |
 | AZ-700 | Network      | **Azure Network Engineer Associate**                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
