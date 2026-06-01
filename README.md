@@ -27,6 +27,7 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| PL-900 | Power Platforms      | Power Platform Fundamentals                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | June 1, 2026 |
 | AZ-500 | Security      | **Azure Security Engineer Associate**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | May 22, 2026 |
 | SC-100 | Security      | **Cybersecurity Architect Expert**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | May 8, 2026 |
 | SC-300 | Security      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | May 8, 2026 |
