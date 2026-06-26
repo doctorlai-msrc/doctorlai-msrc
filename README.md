@@ -27,6 +27,7 @@ My GPTs:
 ## Microsoft Certified
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AB-900 | AI      | Copilot and Agent Administration Fundamentals                          | [J7FEF2-AB3155](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8471a8f807a3939d) | June 26, 2026 |
 | PL-300 | PowerBI      | **Power BI Data Analyst Associate**                          | [6C25D7-M05B60](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf) | June 17, 2026 |
 | PL-900 | Power Platforms      | Power Platform Fundamentals                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | June 1, 2026 |
 | AZ-500 | Security      | **Azure Security Engineer Associate**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | May 22, 2026 |
