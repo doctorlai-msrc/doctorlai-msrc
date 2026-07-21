@@ -1,0 +1,43 @@
+---
+name: Readme stats
+
+"on":
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/readme-stats.yaml"
+
+permissions: {}
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        with:
+          card: stats
+          core_version: 2.1.3
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&text_color=718096&hide_title=true&rank_icon=percentile&show=prs_merged_percentage,prs_reviewed
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Reject error card
+        run: "! grep --quiet 'Something went wrong' stats.svg"
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git commit -m "Update readme stats card" || exit 0
+          git push
